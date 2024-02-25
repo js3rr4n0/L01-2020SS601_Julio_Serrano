@@ -1,0 +1,6 @@
+@L01_2020SS601_Julio_Serrano_HostAddress = http://localhost:5273
+
+GET {{L01_2020SS601_Julio_Serrano_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
